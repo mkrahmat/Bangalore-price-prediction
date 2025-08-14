@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node / client builds
+node_modules/
+dist/
+build/
+
+# Environment / secrets
+*.env
+.env.*
+
+# IDEs & OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Data & models (adjust as needed)
+data/
+*.pkl
+*.h5
+*.hdf5
+*.joblib
+*.pt
+*.onnx
+*.sav
+
+# Cache
+*.cache/
+.cache/
