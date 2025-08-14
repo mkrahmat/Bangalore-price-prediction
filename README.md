@@ -44,8 +44,8 @@ This project trains a model on real estate data, serves predictions via a Python
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repository
 ```bash
+### 1️⃣ Clone the repository
 git clone https://github.com/mkrahmat/bangalore-price-prediction.git
 cd bangalore-price-prediction
 
